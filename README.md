@@ -1,6 +1,6 @@
 Chatbot for University Students
 
-![Chatbot Screenshot](chatbot-interface.png)
+![Chatbot Screenshot](chatbot_interface.png)
 
 #Overview
 This is a chatbot project designed to provide comprehensive solutions for students at my university.
